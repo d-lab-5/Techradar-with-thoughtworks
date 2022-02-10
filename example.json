@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Babel",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Apache Kafka",
+    "ring": "trial",
+    "quadrant": "Q2",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Android-x86",
+    "ring": "assess 2",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "GrapCloud lift and shifthQL",
+    "ring": "hold for a moment",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "test"
+  }
+]
