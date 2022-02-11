@@ -3,8 +3,8 @@ CSV files for Thoughtworks radar visualization tool: https://www.thoughtworks.co
 
 |   |   |
 |---|---|
-| [TEST.csv](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Frio-cloud%2Ftech-radar%2Fmaster%2FRIO%2520Radar%2520Q4%25202018.csv)| Just a test with dummy content  |  
-|   |   |
+| [TEST.csv](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fd-lab-5%2FTechradar-with-thoughtworks%2Fmain%2FTEST.csv)| Just a test with dummy content  |  
+|  [example.json](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fd-lab-5%2FTechradar-with-thoughtworks%2Fmain%2Fexample.json) | Json file example   |
 |   |   | 
 
 # Map out a tech strategy
